@@ -1,0 +1,34 @@
+
+@import url('https://fonts.googleapis.com/css?family=Aclonica');
+
+.me {
+	color: #DEB0A6;
+	font-family: Alonica;
+	text-align: center;
+}
+
+.dogs {
+	color: #E6A698;
+	font-family: Alonica;
+}
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Aclonica|Belleza')
+p {
+	color: #BE8377;
+	font-family: Belleza;
+}
+
+a:hover {
+	color: purple;
+}
+
+.hi {
+	color: #E6A698;
+	font-family: Alonica;
+}
+
+.hii {
+	color: #E6A698;
+	font-family: Alonica;
