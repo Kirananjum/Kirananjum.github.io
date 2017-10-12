@@ -9,6 +9,9 @@
 img {
 	height: 150px;
 	width: 350px;
+
+
+
 }
 
 .dogs {
@@ -36,6 +39,10 @@ a:hover {
 .hii {
 	color: #E6A698;
 	font-family: Alonica;
+}
+
+.onee {
+	color:#E6A698;
 }
 
 @import url('https://fonts.googleapis.com/css?family=Rouge+Script');
