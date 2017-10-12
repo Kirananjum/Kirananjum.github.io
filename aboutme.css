@@ -1,11 +1,14 @@
-
-
 @import url('https://fonts.googleapis.com/css?family=Aclonica');
 
 .me {
 	color: #DEB0A6;
 	font-family: Alonica;
 	text-align: center;
+}
+
+img {
+	height: 150px;
+	width: 350px;
 }
 
 .dogs {
